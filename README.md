@@ -1,2 +1,2 @@
 # Proyecto-Final-DDYA
-Este repositorio contiene el paper, el link de la pagina web, el video y la presentacion de nuestro proyecto
+Este repositorio reúne los principales recursos y entregables de nuestro proyecto, incluyendo el paper académico, el enlace a la página web, el video de presentación y las diapositivas utilizadas para la exposición. Su propósito es centralizar toda la información del proyecto y facilitar su consulta, revisión y presentación.
